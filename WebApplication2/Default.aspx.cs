@@ -25,7 +25,6 @@ namespace WebApplication2
             answer = Calculate("( 11.5 + 15.4 ) + 10.1");
             answer = Calculate("23 - ( 29.3 - 12.5 )");
             answer = Calculate("( 1 / 2 ) - 1 + 1");
-            answer = Calculate("10 - ( 2 + 3 * ( 7 - 5 ) ) + 4");
             answer = Calculate("10 - ( 2 + 3 * ( 7 - 5 ) )");
         }
 
